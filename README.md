@@ -119,3 +119,5 @@ app 下载链接：[http://www.wandoujia.com/apps/com.meiriyiwen.app](http://www
 ![](http://android-artworks.25pp.com/fs08/2018/04/08/3/110_ffd0d670a65c5baf6e7ad327e9728267_con_130x130.png)
 
 app 下载链接：[http://www.wandoujia.com/apps/com.androidesk](http://www.wandoujia.com/apps/com.androidesk)
+
+## [360壁纸：API 链接](./360wallpaper.md)
