@@ -9,7 +9,8 @@
 url：http://wallpaper.apc.360.cn/index.php?a=getAllCategories
 
 
-url 示例：[`http://wallpaper.apc.360.cn/index.php?a=getAllCategories`](http://wallpaper.apc.360.cn/index.php?a=getAllCategories)
+
+url 示例：[`http://wallpaper.apc.360.cn/index.php?c=WallPaperAndroid&a=getAllCategories`](http://wallpaper.apc.360.cn/index.php?c=WallPaperAndroid&a=getAllCategories)
 
 
 json 示例：
