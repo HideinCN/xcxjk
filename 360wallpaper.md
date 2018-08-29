@@ -6,10 +6,11 @@
 
 <h2 id="category">获取壁纸类别</h2>
 
-url：http://wallpaper.apc.360.cn/index.php?a=getAllCategories
+url：http://wallpaper.apc.360.cn/index.php?c=WallPaperAndroid&a=getAllCategories
 
 
-url 示例：[`http://wallpaper.apc.360.cn/index.php?a=getAllCategories`](http://wallpaper.apc.360.cn/index.php?a=getAllCategories)
+
+url 示例：[`http://wallpaper.apc.360.cn/index.php?c=WallPaperAndroid&a=getAllCategories`](http://wallpaper.apc.360.cn/index.php?c=WallPaperAndroid&a=getAllCategories)
 
 
 json 示例：
